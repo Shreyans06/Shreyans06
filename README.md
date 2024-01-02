@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shreyans Jain</h1>
 <h3 align="center">A passionate Developer working on interesting projects in AI/ML</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyans06&label=Profile%20views&color=0e75b6&style=flat" alt="shreyans06" /> </p>
 
 - 👨‍💻 My personal website [shreyans06.github.io](shreyans06.github.io)
 
