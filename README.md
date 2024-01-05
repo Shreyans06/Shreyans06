@@ -9,11 +9,11 @@
 - 📫 How to reach me **snola136@asu.edu**
 
 ### Over the year Contributions
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyans06&theme=nord_bright)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyans06&theme=nord_bright)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyans06&theme=nord_bright) -->
 ### 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyans06&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyans06&theme=nord_bright)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--
 **Shreyans06/Shreyans06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
