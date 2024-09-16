@@ -6,7 +6,7 @@
 
 - 👨‍💻 My personal website [shreyans06.github.io](shreyans06.github.io)
 
-- 📫 How to reach me **snola136@asu.edu**
+- 📫 How to reach me **shreyanskjain06@gmail.com**
 
 ### Over the year Contributions
 [![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyans06&theme=nord_bright)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
